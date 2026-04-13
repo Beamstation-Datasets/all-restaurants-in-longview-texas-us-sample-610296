@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Longview, Texas. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Longview, Texas, US",
+  "export_job_id": "c83581f0-a90d-45dd-b4ff-189b018262b2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 610296,
+  "location_name": "Longview",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-longview-texas-us-sample-610296",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/610296/beamstation_610296_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 9.89,
+  "sample_records": 18,
+  "sample_sha256": "142290ef075193f78af901dae3f1d7d5c32f8ee60a306b8e65f2a2c3656d5703",
+  "sample_size_bytes": 76232,
+  "total_records": 182,
+  "updated_at": "2026-04-09T14:44:58.039270+00:00"
+}
