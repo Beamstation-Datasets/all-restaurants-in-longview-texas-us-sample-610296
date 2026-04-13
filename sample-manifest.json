@@ -1,0 +1,12 @@
+{
+  "export_job_id": "c83581f0-a90d-45dd-b4ff-189b018262b2",
+  "id_short": 610296,
+  "published_at": "2026-04-13T07:13:34Z",
+  "repo_name": "all-restaurants-in-longview-texas-us-sample-610296",
+  "sample_asset_name": "beamstation_610296_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/610296/beamstation_610296_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 18,
+  "sample_sha256": "142290ef075193f78af901dae3f1d7d5c32f8ee60a306b8e65f2a2c3656d5703",
+  "sample_size_bytes": 76232,
+  "total_records": 182
+}
