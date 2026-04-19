@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Longview, Texas. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Longview, Texas, US",
-  "export_job_id": "c83581f0-a90d-45dd-b4ff-189b018262b2",
+  "export_job_id": "7808e357-a6be-49bd-b159-d997f8632559",
   "github_org": "Beamstation-Datasets",
   "id_short": 610296,
   "location_name": "Longview",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/610296/beamstation_610296_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_pct": 9.89,
   "sample_records": 18,
-  "sample_sha256": "142290ef075193f78af901dae3f1d7d5c32f8ee60a306b8e65f2a2c3656d5703",
-  "sample_size_bytes": 76232,
+  "sample_sha256": "b78be4cf6d2e0f2673cd1cb35a25972d1b2f75410777730f6ef0c578842fa23e",
+  "sample_size_bytes": 69169,
   "total_records": 182,
-  "updated_at": "2026-04-09T14:44:58.039270+00:00"
+  "updated_at": "2026-04-16T16:11:55.663476+00:00"
 }
